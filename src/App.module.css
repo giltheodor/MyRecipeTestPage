@@ -1,0 +1,26 @@
+.app{
+  background-color: #3f3f3f;
+  height:100vh
+}
+
+.centered{
+  width:500px;
+  margin:0 auto;
+  background-color: #cccccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding:16px;
+}
+
+
+.title{
+ color:#8a2b06
+}
+
+.item{
+  margin:8px;
+}
+
+
