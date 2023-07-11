@@ -30,10 +30,10 @@
       "ratingValue": "4.33333333333333"
     },
     "keywords": "Salad, Melon, Prosciutto, Make Ahead, Serves a Crowd, Summer, Vegetable, Pickle &amp; Preserve, Cucumber",
-    "isAccessibleForFree": "False",
+    "isAccessibleForFree": "True",
     "hasPart": {
       "@type": "WebPageElement",
-      "isAccessibleForFree": "False",
+      "isAccessibleForFree": "True",
       "cssSelector": ".recipe-gate"
     },
     "publisher": {
