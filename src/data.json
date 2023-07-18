@@ -4,17 +4,11 @@
     "@context": "http://schema.org/",
     "@type": "Recipe",
     "name": "Quick-Pickled Cucumber-Melon Salad",
-    "image": [
-      ""
-    ],
-    "recipeYield": "",
     "author": {
       "@type": "Organization",
       "name": "PNOE",
-      "logo": "https://mypnoe.blob.core.windows.net/images/3a547b57-53ab-4bc0-831c-717e3c168bf7.png"
-    },
-    "nutrition": {
-      "@type": "NutritionInformation"
+      "logo": "https://mypnoe.blob.core.windows.net/images/3a547b57-53ab-4bc0-831c-717e3c168bf7.png",
+      "url":"https://myrecipe-test.netlify.app/"
     },
     "recipeIngredient": [
       "4  Kirby cucumbers",
@@ -29,10 +23,6 @@
       {
         "@type": "HowToStep",
         "text": "In a bowl, mix together the cucumbers and melon.  Sprinkle over with the sugar and salt.  The salad will begin to expel liquid almost immediately.  Let sit 10-20 minutes and drain well.  Return to the fridge until ready to serve."
-      },
-      {
-        "@type": "HowToStep",
-        "text": ""
       }
     ]
   }
